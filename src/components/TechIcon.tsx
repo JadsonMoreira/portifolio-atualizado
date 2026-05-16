@@ -26,7 +26,7 @@ const TechIcon: React.FC<TechIconProps> = ({ name, className = "w-5 h-5" }) => {
     cicd: Si.SiGithubactions,
     python: Si.SiPython,
     fastapi: Si.SiFastapi,
-    d3js: Si.SiD3dotjs,
+    d3js: Si.SiD3,
     socketio: Si.SiSocketdotio,
   };
 
