@@ -35,7 +35,7 @@ const About: React.FC = () => {
           <div className="absolute inset-0 border-2 border-[var(--green)] rounded translate-x-4 translate-y-4 group-hover:translate-x-2 group-hover:translate-y-2 transition-transform"></div>
           <div className="relative bg-[var(--green)] rounded overflow-hidden">
             <img
-              src="https://media.licdn.com/dms/image/v2/C5603AQGs5wGmhV3czg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629386427630?e=1770249600&v=beta&t=LAyNbWG89iNXs-G71CBJXk-JT2W6q8xa7aSTOp7JzEc"
+              src="https://media.licdn.com/dms/image/v2/C5603AQGs5wGmhV3czg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1629386427630?e=1780531200&v=beta&t=jfDdBTcg2WNrd8IBaTxAwAaKmii7DF7z7qZxgvHtil4"
               alt="Jadson"
               className="mix-blend-multiply grayscale hover:grayscale-0 hover:mix-blend-normal transition-all duration-500"
             />
