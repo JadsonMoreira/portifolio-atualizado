@@ -129,7 +129,8 @@ const Navbar: React.FC<NavbarProps> = ({ theme, toggleTheme }) => {
           </button>
 
           <a
-            href="#"
+            href="https://drive.google.com/file/d/1K9Eit4OgoLH4A4YveSZxNJTNMFj07IBH/view?usp=sharing"
+            target="_blank"
             className="hidden sm:block px-4 py-2 border border-[var(--green)] text-[var(--green)] font-mono text-[13px] rounded hover:bg-[var(--green)]/10 transition-colors"
           >
             Currículo

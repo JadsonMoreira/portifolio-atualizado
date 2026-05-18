@@ -32,7 +32,7 @@ export const PROJECTS: Project[] = [
     id: "3",
     title: "Dashboard Financeiro em Tempo Real",
     description: "Visualização interativa de dados para tendências do mercado de ações com integração WebSocket.",
-    tags: ["TypeScript", "D3.js", "Socket.io", "Redis"],
+    tags: ["TypeScript", /*"D3.js",*/ "Socket.io", "Redis"],
     imageUrl: "",
     githubUrl: "#",
     demoUrl: "#",
@@ -72,7 +72,7 @@ export const STACKS: TechStack[] = [
       { name: "Fastify", icon: "⚡" },
       { name: "NestJS", icon: "🦁" },
       { name: "MongoDB", icon: "🍃" },
-      { name: "Redis", icon: "🔻" },
+      // { name: "Redis", icon: "🔻" },
     ],
   },
   {
