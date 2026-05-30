@@ -11,19 +11,19 @@ export interface Experience {
 export const PROJECTS: Project[] = [
   {
     id: "1",
+    title: "Chat app em tempo real",
+    description: "Um aplicativo de chat em tempo real construído com TypeScript, MongoDB, Socket.io e React. Com objetivo de demonstrar habilidades em comunicação bidirecional e gerenciamento de estado em tempo real.",
+    tags: ["TypeScript", "MongoDB", "Socket.io", "React"],
+    imageUrl: "",
+    githubUrl: "https://github.com/JadsonMoreira/chat-app/tree/master",
+    demoUrl: "https://chat-app-six-alpha-88.vercel.app/",
+  },
+  {
+    id: "2",
     title: "Arquitetura E-commerce Backend",
     description:
       "Uma plataforma de e-commerce escalável baseada em microsserviços construída com NestJS, React e MongoDB.",
     tags: ["React", "NestJS", "MongoDB", "Node.js"],
-    imageUrl: "",
-    githubUrl: "#",
-    demoUrl: "#",
-  },
-  {
-    id: "2",
-    title: "Automatizador de Tarefas com IA",
-    description: "Automatize fluxos de trabalho repetitivos usando LLMs e backends Python FastAPI.",
-    tags: ["Python", "FastAPI", "Gemini API", "React"],
     imageUrl: "",
     githubUrl: "#",
     demoUrl: "#",
