@@ -46,7 +46,7 @@ export const EXPERIENCES: Experience[] = [
     period: "Fev 2022 - Presente",
     url: "#",
     bullets: [
-      "Participei do desenvolvimento de uma plataforma SaaS de gestão empresarial utilizando React, TypeScript e Node.js, atendendo mais de 10.000 usuários ativos mensais.",
+      "Participei do desenvolvimento de uma plataforma SaaS de gestão empresarial utilizando React, TypeScript e Node.js, atendendo mais de 100.000 usuários ativos mensais.",
       "Desenvolvi e mantive painéis administrativos complexos usando AdminJS, otimizando o fluxo de trabalho da equipe de operações",
       "Implementei pipelines de CI/CD robustos com GitHub Actions para automatizar testes e deploys",
       "Colaborei com equipes multifuncionais para projetar e lançar novas funcionalidades.",
